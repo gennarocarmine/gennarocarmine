@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 12px;">
+<p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 12px;">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo" style="flex-shrink: 0;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="flex-shrink: 0;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="flex-shrink: 0;" />
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="flex-shrink: 0;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="flex-shrink: 0;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo" style="flex-shrink: 0;" />
-</div>
+</p>
 
 ###
 
