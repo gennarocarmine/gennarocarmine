@@ -10,41 +10,52 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-<p align="left">
+<div align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="c logo" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css logo" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex logo" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo" width="40" height="40"   />
   </a>
+  <img width="12" />
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" width="40" height="40"   />
   </a>
+  <img width="12" />
    <a href="https://www.r-project.org/other-docs.html" targer="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r logo" width="40" height="40"   />
   </a>
-</p>
+  <img width="12" />
+</div>
 
 ###
 
